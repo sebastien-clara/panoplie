@@ -1,0 +1,78 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u470002535",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Rhody::brightness" : [ 0.2 ],
+					"Rhody::lfoDepth" : [ 0.1 ],
+					"Rhody::lfoSpeed" : [ 7.0 ],
+					"Rhody::live.gain~" : [ -26.439909 ],
+					"Rhody::timbre" : [ 0.2 ],
+					"Rhody::selInput::Inlet" : [ 1 ],
+					"Rhody::selInput::midiInput" : [ 0 ],
+					"Rhody::selInput::oscInput" : [ 0 ],
+					"duetForOne::arpTempoMul" : [  ],
+					"duetForOne::duetOperation" : [ 3 ],
+					"duetForOne::selInput::Inlet" : [ 0 ],
+					"duetForOne::selInput::midiInput" : [ 1 ],
+					"duetForOne::selInput::oscInput" : [ 0 ],
+					"duetForOne::selOutput::oscOutput" : [ 0 ],
+					"duetForOne::selOutput::outlet" : [ 1 ],
+					"duetForOne::selOutput::udpInput" : [ 7410 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"Rhody::brightness" : [ 0.8 ],
+					"Rhody::lfoDepth" : [ 1.0 ],
+					"Rhody::lfoSpeed" : [ 7.0 ],
+					"Rhody::live.gain~" : [ -26.439909 ],
+					"Rhody::timbre" : [ 9.806298999999999 ],
+					"Rhody::selInput::Inlet" : [ 1 ],
+					"Rhody::selInput::midiInput" : [ 0 ],
+					"Rhody::selInput::oscInput" : [ 0 ],
+					"duetForOne::arpTempoMul" : [  ],
+					"duetForOne::duetOperation" : [ 3 ],
+					"duetForOne::selInput::Inlet" : [ 0 ],
+					"duetForOne::selInput::midiInput" : [ 1 ],
+					"duetForOne::selInput::oscInput" : [ 0 ],
+					"duetForOne::selOutput::oscOutput" : [ 0 ],
+					"duetForOne::selOutput::outlet" : [ 1 ],
+					"duetForOne::selOutput::udpInput" : [ 7410 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"Rhody::brightness" : [ 0.102362 ],
+					"Rhody::lfoDepth" : [ 0.102362 ],
+					"Rhody::lfoSpeed" : [ 7.0 ],
+					"Rhody::live.gain~" : [ -26.439909 ],
+					"Rhody::timbre" : [ 1.381102 ],
+					"Rhody::selInput::Inlet" : [ 1 ],
+					"Rhody::selInput::midiInput" : [ 0 ],
+					"Rhody::selInput::oscInput" : [ 0 ],
+					"duetForOne::arpTempoMul" : [  ],
+					"duetForOne::duetOperation" : [ 2 ],
+					"duetForOne::selInput::Inlet" : [ 0 ],
+					"duetForOne::selInput::midiInput" : [ 1 ],
+					"duetForOne::selInput::oscInput" : [ 0 ],
+					"duetForOne::selOutput::oscOutput" : [ 0 ],
+					"duetForOne::selOutput::outlet" : [ 1 ],
+					"duetForOne::selOutput::udpInput" : [ 7410 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,42 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u289000714",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"int" : [ 0 ],
+					"live.dial" : [ 1.0 ],
+					"live.dial[1]" : [ 0.0 ],
+					"live.gain~" : [ -70.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"int" : [ 137 ],
+					"live.dial" : [ 1.0 ],
+					"live.dial[1]" : [ 127.0 ],
+					"live.gain~" : [ 6.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"int" : [ -58 ],
+					"live.dial" : [ 1.0 ],
+					"live.dial[1]" : [ 45.0 ],
+					"live.gain~" : [ -70.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

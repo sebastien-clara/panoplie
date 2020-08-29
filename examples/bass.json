@@ -1,0 +1,153 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u349000379",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"stkBass2::live.gain~" : [ -9.0 ],
+					"stkBass2::modCoef" : [ 2.0 ],
+					"stkBass2::modType" : [ 0.0 ],
+					"stkBass2::nonLin" : [ 0.1 ],
+					"stkBass2::touchLength" : [ 0.15 ],
+					"stkBass2::selInput::Inlet" : [ 0 ],
+					"stkBass2::selInput::midiInput" : [ 1 ],
+					"stkBass2::selInput::oscInput" : [ 0 ],
+					"cabinetAmpegManatee::amountBass" : [ 0.0 ],
+					"cabinetAmpegManatee::amountTreble" : [ 0.0 ],
+					"distoTubeScreamer::drive" : [ 0.0 ],
+					"distoTubeScreamer::level" : [ -9.0 ],
+					"distoTubeScreamer::tone" : [ 354.960631999999976 ],
+					"toneStackAmpeg::bass" : [ 1.0 ],
+					"toneStackAmpeg::middle" : [ 0.5 ],
+					"toneStackAmpeg::treble" : [ 0.5 ],
+					"autowah::amount" : [ 0.0 ],
+					"compressor::attack" : [ 2.80315 ],
+					"compressor::gain" : [ 30.748031999999998 ],
+					"compressor::ratio" : [ 9.188976 ],
+					"compressor::release" : [ 98.826774999999998 ],
+					"compressor::threshold" : [ -48.110236999999998 ],
+					"tube6V6::gain" : [ -20.0 ],
+					"tube6V6::preGain" : [ 0.0 ],
+					"panpot::panpot" : [ 0.0 ],
+					"dryWet::dryWet" : [ -0.95 ],
+					"noiseGate::attack" : [ 30.0 ],
+					"noiseGate::release" : [ 500.0 ],
+					"noiseGate::threshold" : [ -50.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"stkBass2::live.gain~" : [ -9.0 ],
+					"stkBass2::modCoef" : [ 2.0 ],
+					"stkBass2::modType" : [ 0.0 ],
+					"stkBass2::nonLin" : [ 0.1 ],
+					"stkBass2::touchLength" : [ 0.244488 ],
+					"stkBass2::selInput::Inlet" : [ 0 ],
+					"stkBass2::selInput::midiInput" : [ 1 ],
+					"stkBass2::selInput::oscInput" : [ 0 ],
+					"cabinetAmpegManatee::amountBass" : [ 1.0 ],
+					"cabinetAmpegManatee::amountTreble" : [ 1.0 ],
+					"distoTubeScreamer::drive" : [ 1.0 ],
+					"distoTubeScreamer::level" : [ -9.0 ],
+					"distoTubeScreamer::tone" : [ 250.0 ],
+					"toneStackAmpeg::bass" : [ 1.0 ],
+					"toneStackAmpeg::middle" : [ 0.775591 ],
+					"toneStackAmpeg::treble" : [ 0.204724 ],
+					"autowah::amount" : [ 0.0 ],
+					"compressor::attack" : [ 2.80315 ],
+					"compressor::gain" : [ 30.748031999999998 ],
+					"compressor::ratio" : [ 9.188976 ],
+					"compressor::release" : [ 98.826774999999998 ],
+					"compressor::threshold" : [ -48.110236999999998 ],
+					"tube6V6::gain" : [ 0.0 ],
+					"tube6V6::preGain" : [ -6.0 ],
+					"panpot::panpot" : [ 0.0 ],
+					"dryWet::dryWet" : [ -0.95 ],
+					"noiseGate::attack" : [ 30.0 ],
+					"noiseGate::release" : [ 500.0 ],
+					"noiseGate::threshold" : [ -50.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"stkBass2::live.gain~" : [ -9.0 ],
+					"stkBass2::modCoef" : [ 2.0 ],
+					"stkBass2::modType" : [ 0.0 ],
+					"stkBass2::nonLin" : [ 0.1 ],
+					"stkBass2::touchLength" : [ 1.685433 ],
+					"stkBass2::selInput::Inlet" : [ 0 ],
+					"stkBass2::selInput::midiInput" : [ 1 ],
+					"stkBass2::selInput::oscInput" : [ 0 ],
+					"cabinetAmpegManatee::amountBass" : [ 0.0 ],
+					"cabinetAmpegManatee::amountTreble" : [ 0.0 ],
+					"distoTubeScreamer::drive" : [ 0.0 ],
+					"distoTubeScreamer::level" : [ -9.0 ],
+					"distoTubeScreamer::tone" : [ 354.960631999999976 ],
+					"toneStackAmpeg::bass" : [ 1.0 ],
+					"toneStackAmpeg::middle" : [ 0.5 ],
+					"toneStackAmpeg::treble" : [ 0.5 ],
+					"autowah::amount" : [ 1.0 ],
+					"compressor::attack" : [ 2.80315 ],
+					"compressor::gain" : [ 30.748031999999998 ],
+					"compressor::ratio" : [ 9.188976 ],
+					"compressor::release" : [ 98.826774999999998 ],
+					"compressor::threshold" : [ -48.110236999999998 ],
+					"tube6V6::gain" : [ 0.0 ],
+					"tube6V6::preGain" : [ -6.0 ],
+					"panpot::panpot" : [ 0.0 ],
+					"dryWet::dryWet" : [ 0.0 ],
+					"noiseGate::attack" : [ 30.0 ],
+					"noiseGate::release" : [ 500.0 ],
+					"noiseGate::threshold" : [ -50.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"stkBass2::live.gain~" : [ -9.0 ],
+					"stkBass2::modCoef" : [ 2.0 ],
+					"stkBass2::modType" : [ 4.0 ],
+					"stkBass2::nonLin" : [ 0.29685 ],
+					"stkBass2::touchLength" : [ 1.425591 ],
+					"stkBass2::selInput::Inlet" : [ 0 ],
+					"stkBass2::selInput::midiInput" : [ 1 ],
+					"stkBass2::selInput::oscInput" : [ 0 ],
+					"cabinetAmpegManatee::amountBass" : [ 1.0 ],
+					"cabinetAmpegManatee::amountTreble" : [ 0.496062992125984 ],
+					"distoTubeScreamer::drive" : [ 1.0 ],
+					"distoTubeScreamer::level" : [ -9.0 ],
+					"distoTubeScreamer::tone" : [ 354.960631999999976 ],
+					"toneStackAmpeg::bass" : [ 1.0 ],
+					"toneStackAmpeg::middle" : [ 0.5 ],
+					"toneStackAmpeg::treble" : [ 0.0 ],
+					"autowah::amount" : [ 1.0 ],
+					"compressor::attack" : [ 2.80315 ],
+					"compressor::gain" : [ 30.748031999999998 ],
+					"compressor::ratio" : [ 9.188976 ],
+					"compressor::release" : [ 98.826774999999998 ],
+					"compressor::threshold" : [ -48.110236999999998 ],
+					"tube6V6::gain" : [ 0.0 ],
+					"tube6V6::preGain" : [ -6.0 ],
+					"panpot::panpot" : [ 0.0 ],
+					"dryWet::dryWet" : [ 0.0 ],
+					"noiseGate::attack" : [ 30.0 ],
+					"noiseGate::release" : [ 500.0 ],
+					"noiseGate::threshold" : [ -50.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
